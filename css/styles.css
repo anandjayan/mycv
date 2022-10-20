@@ -1,0 +1,44 @@
+
+body {
+  background-color: #A8E890;
+    }
+hr{
+border-color: grey;
+  border-style: dotted none none;
+  border-width:5px;
+  width: 20%;
+}
+h1{
+  color: #150050;
+}
+
+h3{
+  color: #D2001A;
+    font-size: 40px;
+}
+
+h2{
+  color: #D2001A;
+    font-size: 40px;
+}
+.food{
+  font-size: 100px;
+}
+
+.pizza{
+  width: 300px;
+  height: 300px;
+}
+
+.name{
+  font-size: 150px;
+}
+p{
+  font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
+tr{
+    font-size: 20px;
+}
