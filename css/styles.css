@@ -8,6 +8,9 @@ border-color: grey;
   border-width:5px;
   width: 20%;
 }
+.propic2{
+  border-color: black;
+}
 h1{
   color: #150050;
 }
@@ -41,4 +44,14 @@ li{
 }
 tr{
     font-size: 20px;
+}
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: white;
+}
+h2:hover{
+  color: blue;
 }
